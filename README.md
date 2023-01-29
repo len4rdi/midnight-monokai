@@ -14,9 +14,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-> Midnight monokai is a beatiful theme based on default `sublime text3 monokai`
-
-
+> Midnight monokai is a beatiful theme based on default `sublime text3 monokai`<br>
+✓ NEOVIM<br>
+✓ VIM
 
 <!-- GETTING STARTED -->
 <div id="getting-started">
