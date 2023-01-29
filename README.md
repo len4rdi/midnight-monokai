@@ -6,14 +6,14 @@
   <h3 align="center">Midnight Monokai 🍇</h3>
   <p align="center">
     <br />
-    <a href="https://github.com/darkstar-x/frost-pkg/issues">Report Bug</a>
+    <a href="https://github.com/darkstar-x/frost-pkg/issues">Report Bug 🐞</a>
     ·
-    <a href="https://github.com/darkstar-x/frost-pkg/issues">Request Feature</a>
+    <a href="https://github.com/darkstar-x/frost-pkg/issues">Request Feature 🛠</a>
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project 👋
 > Midnight monokai is a beatiful theme based on default `sublime text3 monokai`<br><br>
 Supported on:<br>
 ✓ NEOVIM<br>
