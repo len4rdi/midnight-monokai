@@ -14,14 +14,15 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-> Midnight monokai is a beatiful theme based on default `sublime text3 monokai`<br>
+> Midnight monokai is a beatiful theme based on default `sublime text3 monokai`<br><br>
+Supported on:<br>
 ✓ NEOVIM<br>
 ✓ VIM
 
 <!-- GETTING STARTED -->
 <div id="getting-started">
 
-## Getting Started
+## Getting Started 🚀
 
 Using Packer nvim
 ```sh
@@ -41,7 +42,7 @@ or
 :colorscheme minight-monokai
 ```
 
-## Examples
+## Examples 💡
 
 Example for Bash language
 <img src="images/i3_screenshot_2023-01-29-11-52-57.png" alt="Main banner" >
