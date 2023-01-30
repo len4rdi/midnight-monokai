@@ -54,7 +54,7 @@ Example C++ variant for arduino
 <img src="images/i3_screenshot_2023-01-29-11-53-22.png" alt="Main banner" >
 
 
-Example for Python
+Example for Python &#x1F40D;
 <img src="images/i3_screenshot_2023-01-29-11-54-20.png" alt="Main banner" >
 
 
