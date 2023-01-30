@@ -6,9 +6,9 @@
   <h3 align="center">Midnight Monokai 🍇</h3>
   <p align="center">
     <br />
-    <a href="https://github.com/darkstar-x/frost-pkg/issues">Report Bug 🐞</a>
+    <a href="https://github.com/len4rdi/frost-pkg/issues">Report Bug 🐞</a>
     ·
-    <a href="https://github.com/darkstar-x/frost-pkg/issues">Request Feature 🛠</a>
+    <a href="https://github.com/len4rdi/frost-pkg/issues">Request Feature 🛠</a>
   </p>
 </div>
 
@@ -26,11 +26,11 @@ Supported on:<br>
 
 Using Packer nvim
 ```sh
-use 'darkstar-x/midnight-monokai'
+use 'len4rdi/midnight-monokai'
 ```
 Using Plug
 ```sh
-Plug 'darkstar-x/midnight-monokai'
+Plug 'len4rdi/midnight-monokai'
 ```
 ## Usage
 
