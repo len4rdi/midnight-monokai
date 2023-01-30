@@ -64,3 +64,5 @@ Example Javascript-react and Typescript-react
 
 Example for Lua language 🌕
 <img src="images/i3_screenshot_2023-01-29-11-57-34.png" alt="Main banner" >
+
+My neovim settings: https://github.com/len4rdi/nvim-rc
