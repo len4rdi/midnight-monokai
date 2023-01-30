@@ -39,7 +39,7 @@ Plug 'len4rdi/midnight-monokai'
 ```
 or
 ```sh
-:colorscheme minight-monokai
+:colorscheme midnight-monokai
 ```
 
 ## Examples 💡
